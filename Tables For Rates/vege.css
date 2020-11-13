@@ -1,0 +1,21 @@
+table,th,tr,td{
+    margin: auto;
+    border: 2px solid lightgrey;
+    border-spacing: 5px;
+    padding: 20px;
+    border-collapse: collapse;
+    font-size: 20px;
+}
+
+th{
+    background-color: #27AE60;
+    color: white;
+}
+
+tr:hover{
+    background-color:#EDEAE4 ;
+}
+body{
+    background-image: url("https://res.cloudinary.com/diojvuqpx/image/upload/v1605260436/background2_ponjjp.jpg");
+    background-repeat: no-repeat;
+}
